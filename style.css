@@ -54,7 +54,7 @@ p {
     text-align: justify;
 }
 
-.banar {
+.flxible-container {
     background-image: url(image/banar.jpg);
     size: 100%;
 }
@@ -85,7 +85,55 @@ p {
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: right;
+}
 
+.div-1 {
+    width: 50%;
+    margin-right: 20px;
+    margin-left: 20px;
+    box-shadow: gray 10px 10px 10px 10px;
+    border-radius: 10px;
+    padding: 50px;
+    border-left: 5px greenyellow;
+}
 
+.div-2 {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 20px;
+    box-shadow: gray 10px 10px 10px 10px;
+    border-radius: 10px;
+    padding: 50px;
 
+}
+
+.ex {
+    margin-left: 30px;
+}
+
+.hero {
+    color: orange;
+    font-weight: 200;
+}
+
+.Hero {
+    color: rgb(15, 93, 93);
+    font-size: 250%;
+    font-weight: 200;
+}
+
+.sec {
+    margin: 100px;
+
+    background-image: url(image/Picsart_22-07-04_17-47-44-032.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: right;
+    ackground-image: url(image/Picsart_22-07-04_17-47-44-032.png);
+
+}
+
+.ex {
+    color: goldenrod;
+    margin-left: 58px;
 }
