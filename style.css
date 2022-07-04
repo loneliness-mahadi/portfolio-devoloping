@@ -1,0 +1,53 @@
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.Mahadi {
+    color: rgb(146, 146, 69);
+    font-weight: 300;
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Gulzar', serif;
+}
+
+section {
+    display: flex;
+}
+
+.half-w {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 2%;
+}
+
+.half-image {
+    width: 50%;
+}
+
+img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, gold);
+    padding: 10px 40px;
+    border-radius: 4px;
+    font-weight: 300;
+}
+
+.about {
+    color: rgb(4, 133, 90);
+    font-weight: 250;
+}
+
+p {
+    text-align: justify;
+}
