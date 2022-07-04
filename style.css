@@ -20,6 +20,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 200px;
 }
 
 .half-w {
@@ -56,6 +57,35 @@ p {
 .banar {
     background-image: url(image/banar.jpg);
     size: 100%;
+}
+
+.image-1 {
+    width: 100%;
+}
+
+.half-i {
+    width: 50%;
+}
+
+.half-2 {
+    width: 50%;
+    margin-right: 60px;
+}
+
+.button-1 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, gold);
+    padding: 10px 40px;
+    border-radius: 4px;
+    font-weight: 300;
+}
+
+.sec-1 {
+    background-image: url(image/Picsart_22-07-04_17-47-44-032.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: right;
+
 
 
 }
